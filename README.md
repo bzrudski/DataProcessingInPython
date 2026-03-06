@@ -2,6 +2,7 @@
 
 **Click one of these:**
 [![Open student version in Colab](https://img.shields.io/badge/Open%20in%20Colab-Student%20version-blue?logo=googlecolab)](https://colab.research.google.com/github/QLS-MiCM/DataProcessingInPython/blob/main/Exercises/scripts/DataProcessingPython.ipynb)
+[![Open compact student version in Colab](https://img.shields.io/badge/Open%20in%20Colab-%20Compact%20student%20version-blue?logo=googlecolab)](https://colab.research.google.com/github/QLS-MiCM/DataProcessingInPython/blob/main/Exercises/scripts/DataProcessingPythonCompact.ipynb)
 [![Open solutions version in Colab](https://img.shields.io/badge/Open%20in%20Colab-Solutions%20version-blue?logo=googlecolab)](https://colab.research.google.com/github/QLS-MiCM/DataProcessingInPython/blob/main/Exercises/solutions/DataProcessingPython.ipynb)
 
 ## Overview
@@ -45,6 +46,7 @@ In your Python environment, you must have the following packages installed:
 If you don't want to install anything locally, you can open the workshop materials using Google Colab:
 
 * Student version (with blank fields): <https://colab.research.google.com/github/QLS-MiCM/DataProcessingInPython/blob/main/Exercises/scripts/DataProcessingPython.ipynb>
+* Compact student version (with blank fields and shorter explanations): <https://colab.research.google.com/github/QLS-MiCM/DataProcessingInPython/blob/main/Exercises/scripts/DataProcessingPythonCompact.ipynb>
 * Solution version (filled out): <https://colab.research.google.com/github/QLS-MiCM/DataProcessingInPython/blob/main/Exercises/solutions/DataProcessingPython.ipynb>
 
 > &#x26A0; **Warning:** Make sure that `using_colab = True` in the first code cell and run that cell to download all the data files required for this workshop.
